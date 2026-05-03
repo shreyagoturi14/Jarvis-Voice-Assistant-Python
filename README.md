@@ -20,7 +20,6 @@ The assistant works using the following workflow:
 * Voice command recognition
 * Text-to-Speech response
 * Open popular websites such as:
-
   * Google
   * YouTube
   * LinkedIn
