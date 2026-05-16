@@ -2,7 +2,6 @@
 
 Jarvis is a simple AI Voice Assistant built using Python that can recognize voice commands and perform useful tasks such as opening websites and playing music.
 The assistant listens for a wake word ("Jarvis") and then executes the requested command.
-
 This project demonstrates the use of speech recognition, text-to-speech, and automation using Python.
 
 ## Project Overview
