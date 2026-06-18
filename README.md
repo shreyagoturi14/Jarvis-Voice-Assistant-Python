@@ -33,4 +33,3 @@ The assistant works using the following workflow:
 * **pyttsx3** – for text-to-speech conversion
 * **webbrowser module** – for opening websites
 * **Microphone input** – for capturing voice commands
-
