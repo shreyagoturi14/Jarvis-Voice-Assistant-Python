@@ -27,7 +27,6 @@ The assistant works using the following workflow:
 
 
 ## Technologies Used
-
 * **Python**
 * **SpeechRecognition** – for converting speech to text
 * **pyttsx3** – for text-to-speech conversion
