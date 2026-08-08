@@ -14,7 +14,6 @@ The assistant works using the following workflow:
 
 
 ## Features
-
 * Wake word activation ("Jarvis")
 * Voice command recognition
 * Text-to-Speech response
